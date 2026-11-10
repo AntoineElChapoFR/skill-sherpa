@@ -1,7 +1,7 @@
 {
   "name": "skill-sherpa",
   "description": "Guides you to the right skill for your request: one you already have, or one worth adding.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "keywords": [
     "skills",

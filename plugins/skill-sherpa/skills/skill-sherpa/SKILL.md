@@ -43,9 +43,11 @@ Short answer format:
 - Then offer the best option: do the task directly without a skill, or create a dedicated skill if the task is likely to recur.
 - Never invent a skill, and never describe capabilities a description does not mention.
 
-### 6. Offer the next step
-- End with a proposed action: "Shall I run it on your request?"
-- If the user had already stated a precise task and one skill clearly stands out, announce the choice in one sentence and go straight into that skill.
+### 6. Run it, or offer to
+- If the user only asked a question ("which skill for...?", "is there a skill for...?"), recommend, launch nothing, and end with a proposed action: "Shall I run it on your request?"
+- If the user stated a precise task, announce the pick in one sentence and go straight into it, without asking for confirmation. This also applies to a combination: run the skills one after the other, in the announced order.
+- Stop to ask ONE short question only when an essential piece of information is missing (for example, which project the task is about). Otherwise make reasonable assumptions and state them.
+- Only skills that are already available can be run directly. If the pick has to be added first, show the card and wait.
 
 ## Rules
 - One skill recommended first; no long lists.
