@@ -34,8 +34,11 @@ Short answer format:
 - **My pick: `skill-name`** — one sentence on why it fits the need.
 - **Alternatives** (only if they truly exist, 2 at most): for each, one advantage and one drawback versus the first pick, expressed as outcomes for the user (speed, level of detail, format obtained), not jargon.
 - State for each skill whether it is **already available** or **to add**.
+- When no single skill covers the need but several together do, the combination IS the pick. Lead with it: **My pick: `skill-a` then `skill-b`**, in the order to run them, with one line on what each one contributes. Do not open with "no skill matches".
+- Alternatives are other skills or other combinations of skills, not other ways of doing the task.
 
 ### 5. Be honest when no skill fits
+- This applies only when neither a single skill nor a combination of skills covers the need.
 - Say it plainly: "No skill really matches."
 - Then offer the best option: do the task directly without a skill, or create a dedicated skill if the task is likely to recur.
 - Never invent a skill, and never describe capabilities a description does not mention.
@@ -47,4 +50,4 @@ Short answer format:
 ## Rules
 - One skill recommended first; no long lists.
 - No jargon: explain what the skill delivers, not how it works.
-- If several skills must be combined (e.g. research then writing), give the order in one line.
+- Prefer a combination of available skills over "no skill matches" (e.g. research, then a spreadsheet model, then a document).
