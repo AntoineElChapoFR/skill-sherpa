@@ -1,0 +1,14 @@
+{
+  "name": "skill-sherpa",
+  "description": "Skill Sherpa: a skill that guides you to the right skill for your request.",
+  "owner": {
+    "name": "AntoineElChapoFR"
+  },
+  "plugins": [
+    {
+      "name": "skill-sherpa",
+      "source": "./plugins/skill-sherpa",
+      "description": "Guides you to the right skill for your request: one you already have, or one worth adding."
+    }
+  ]
+}
