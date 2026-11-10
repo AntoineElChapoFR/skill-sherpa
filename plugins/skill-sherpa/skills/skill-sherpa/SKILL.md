@@ -25,6 +25,7 @@ Always reply in the user's language, briefly and candidly. Assume the user may n
 - Search the catalog of skills and plugins the user can add (skill and plugin search/suggestion tools, when available), using keywords drawn from the need.
 - Catalog searches return loosely related results. Discard anything that does not clearly answer the need.
 - The catalog often describes a plugin as a whole, not each skill inside it. In that case recommend the plugin, and describe only what its description states.
+- A catalog result can be something the user already has. Check whether it is marked as enabled before calling it "to add"; if it is, treat it as already available.
 - If a result matches, show the suggestion card so they can add it in one click.
 
 ### 4. Give the recommendation
