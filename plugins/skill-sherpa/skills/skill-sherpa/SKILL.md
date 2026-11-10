@@ -16,12 +16,15 @@ Always reply in the user's language, briefly and candidly. Assume the user may n
 - If the request is too vague to choose, ask ONE short question. Otherwise, carry on without asking.
 
 ### 2. Search the skills already available
-- Review the skills available in the session (use the skill-listing tool if one exists, to get the complete and current list).
+- Review every skill available in the session, including the ones that come from installed plugins.
+- A skill-listing tool may return only part of them (for example, it can leave out plugin skills). Combine it with the session's own skill list; never treat either one alone as complete.
 - Match the need against each skill's description, not just its name.
 - Keep at most 3 genuinely relevant candidates. Do not keep a loosely related skill just to fill the list.
 
 ### 3. If nothing really fits, look further
 - Search the catalog of skills and plugins the user can add (skill and plugin search/suggestion tools, when available), using keywords drawn from the need.
+- Catalog searches return loosely related results. Discard anything that does not clearly answer the need.
+- The catalog often describes a plugin as a whole, not each skill inside it. In that case recommend the plugin, and describe only what its description states.
 - If a result matches, show the suggestion card so they can add it in one click.
 
 ### 4. Give the recommendation
